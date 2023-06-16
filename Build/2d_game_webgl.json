@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2d_game",
+"productVersion": "0.1",
+"dataUrl": "2d_game_webgl.data.unityweb",
+"wasmCodeUrl": "2d_game_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "2d_game_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
